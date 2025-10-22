@@ -53,7 +53,7 @@ dev = [
   "isort==5.13.2",
 ]
 test = [
-  "factory-boy==3.2.1",
+  "factory-boy==3.3.3",
   "playwright>=1.39",
   "pytest==8.1.1",
   "pytest-django==4.8.0",
